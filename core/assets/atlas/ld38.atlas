@@ -1,0 +1,230 @@
+
+ld38.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bioIcon
+  rotate: false
+  xy: 2037, 443
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+botPanel
+  rotate: false
+  xy: 977, 325
+  size: 1024, 170
+  orig: 1024, 170
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 1619, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+damage
+  rotate: false
+  xy: 2003, 421
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+drone1
+  rotate: false
+  xy: 2003, 359
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+drone2
+  rotate: false
+  xy: 2003, 331
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+drone3
+  rotate: false
+  xy: 2003, 303
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+drone4
+  rotate: false
+  xy: 2003, 229
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+drone5
+  rotate: false
+  xy: 2003, 275
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+droneBeam
+  rotate: false
+  xy: 2003, 455
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+droneTargeting
+  rotate: false
+  xy: 589, 295
+  size: 386, 200
+  orig: 386, 200
+  offset: 0, 0
+  index: -1
+fuelArrow
+  rotate: false
+  xy: 2003, 387
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+grabber1
+  rotate: false
+  xy: 403, 112
+  size: 60, 383
+  orig: 60, 383
+  offset: 0, 0
+  index: -1
+grabber2
+  rotate: false
+  xy: 465, 112
+  size: 60, 383
+  orig: 60, 383
+  offset: 0, 0
+  index: -1
+grabber3
+  rotate: false
+  xy: 527, 112
+  size: 60, 383
+  orig: 60, 383
+  offset: 0, 0
+  index: -1
+leftPanel
+  rotate: false
+  xy: 589, 93
+  size: 386, 200
+  orig: 386, 200
+  offset: 0, 0
+  index: -1
+midPanel
+  rotate: false
+  xy: 1365, 54
+  size: 252, 200
+  orig: 252, 200
+  offset: 0, 0
+  index: -1
+personIcon
+  rotate: false
+  xy: 2037, 431
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+placeholder
+  rotate: false
+  xy: 1749, 17
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+reticle
+  rotate: false
+  xy: 1953, 201
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+rightPanel
+  rotate: false
+  xy: 977, 54
+  size: 386, 200
+  orig: 386, 200
+  offset: 0, 0
+  index: -1
+scanBeam
+  rotate: false
+  xy: 2031, 257
+  size: 10, 128
+  orig: 10, 128
+  offset: 0, 0
+  index: -1
+ship1
+  rotate: false
+  xy: 1, 1
+  size: 279, 92
+  orig: 279, 92
+  offset: 0, 0
+  index: -1
+ship1scan
+  rotate: false
+  xy: 747, 6
+  size: 227, 85
+  orig: 227, 85
+  offset: 0, 0
+  index: -1
+ship2
+  rotate: false
+  xy: 489, 3
+  size: 256, 88
+  orig: 256, 88
+  offset: 0, 0
+  index: -1
+ship2scan
+  rotate: false
+  xy: 1749, 147
+  size: 202, 80
+  orig: 202, 80
+  offset: 0, 0
+  index: -1
+ship3
+  rotate: false
+  xy: 282, 1
+  size: 205, 92
+  orig: 205, 92
+  offset: 0, 0
+  index: -1
+ship3scan
+  rotate: false
+  xy: 1879, 59
+  size: 146, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 2037, 421
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+starSelector
+  rotate: false
+  xy: 1981, 207
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+topper
+  rotate: false
+  xy: 977, 256
+  size: 1024, 45
+  orig: 1024, 45
+  offset: 0, 0
+  index: -1
+tractorBeam
+  rotate: false
+  xy: 1, 95
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

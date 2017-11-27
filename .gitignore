@@ -1,0 +1,28 @@
+## Java
+*.class
+hs_err_pid*
+
+## Android Studio and Intellij and Android in general
+.idea/
+*.ipr
+*.iws
+*.iml
+out/
+
+## Gradle
+.gradle
+gradle-app.setting
+build/
+target/
+**/target/
+
+## Misc
+.DS_Store
+
+screenshots/
+release/
+core/assets/screenshots/
+*.sh
+*.jar
+*.zip
+*.log
